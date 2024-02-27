@@ -1,0 +1,34 @@
+{
+    "Population": [
+        { 
+            "Country Name": "Australia",
+            "Year": "2019",
+            "popCount": "25203198"
+        },
+        {
+            "Country Name": "Bangladesh",
+            "Year": "2019",
+            "popCount": "163046161"   
+        },
+        {
+            "Country Name": "Canada",
+            "Year": "2019",
+            "popCount": "37411047" 
+        },
+        {
+            "Country Name": "Costa Rica",
+            "Year": "2019",
+            "popCount": "5047561"
+        }
+    ],
+    "Languages": [
+        {
+            "Country Name": "Cook Islands",
+            "Languages": "English"
+        },
+        {
+            "Country Name": "Comoros",
+            "Languages": "French"
+        }
+    ]
+}
